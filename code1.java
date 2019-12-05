@@ -1,0 +1,3 @@
+class nimish	{
+	this constructor;
+}
